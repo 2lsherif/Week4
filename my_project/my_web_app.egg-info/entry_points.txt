@@ -1,0 +1,2 @@
+[console_scripts]
+run-my-web-app = app.app:main

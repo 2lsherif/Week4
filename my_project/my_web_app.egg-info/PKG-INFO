@@ -1,0 +1,5 @@
+Metadata-Version: 2.2
+Name: my_web_app
+Version: 0.1
+Requires-Dist: flask
+Dynamic: requires-dist
